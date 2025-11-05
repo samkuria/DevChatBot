@@ -1,17 +1,17 @@
 # DevChatBot
 An AI powered ChatBot for developers. It is built with **Electron**, **React** and **Flask**
 
-##Features
+## Features
 Conversational AI powered by OpenAI API
 Local desktop app
 Mordern UI built with React
 
-##TechStack
+## TechStack
 React(Frontend)
 Flask(Backend)
 Electron(Desktop Packaging)
 
-##How to Run
+## How to Run
 Clone repo
 Setup backend
 ```bash
